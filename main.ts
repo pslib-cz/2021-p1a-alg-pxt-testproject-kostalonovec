@@ -2,3 +2,5 @@ basic.showIcon(IconNames.Heart)
 basic.forever(function on_forever() {
     
 })
+// hhajklfůdljkůdsfjkůldskljů sdfjklů jkůlds fůjk ad fjkkdlsj flkůs dajfkljsadklf jklsad jflasjkdfjdslkjůdfsajklůfsdaljkfdsjklljkůdfsjkldfsljksdfa kldfsjklsdafjklůfjsdklaůjfklůasdjflksadjflůkjldfsjkldfkljůdfsjklůdfsljksdfljkjkldfskljdfskljůdfsjkldfsajfklůasjd ioufjdsifjiouwjnakljfjsdkjfsadjfkljůsadfiůojdklfjjkljewhiůofjskldjflksajfdoidsfsdkjfůiosadjfkldsjůlkfujdskljfklůdsjfsadjfkljsadklfjjsadlkůfjdklsůjfklsadjfkůldsjfrůlksadjkflůkljůdsjdfia
+led.plot(0, 0)
